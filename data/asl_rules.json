@@ -1,1 +1,126 @@
+{
+  "rules": [
+    {
+      "type": "declarative",
+      "english": "I love my family.",
+      "asl": [
+        "I love family.",
+        "Family I love.",
+        "Love family I."
+      ]
+    },
+    {
+      "type": "declarative",
+      "english": "She goes to school.",
+      "asl": [
+        "She go school.",
+        "School she go."
+      ]
+    },
+    {
+      "type": "yes_no_question",
+      "english": "Do you like pizza?",
+      "asl": [
+        "You like pizza?",
+        "Pizza you like?"
+      ]
+    },
+    {
+      "type": "yes_no_question",
+      "english": "Are you tired?",
+      "asl": [
+        "You tired?",
+        "Tired you?"
+      ]
+    },
+    {
+      "type": "wh_question",
+      "english": "Where is the bathroom?",
+      "asl": [
+        "Bathroom where?",
+        "Where bathroom?"
+      ]
+    },
+    {
+      "type": "wh_question",
+      "english": "What is your name?",
+      "asl": [
+        "Your name what?",
+        "What your name?"
+      ]
+    },
+    {
+      "type": "negative",
+      "english": "I do not understand.",
+      "asl": [
+        "I not understand.",
+        "Understand I not."
+      ]
+    },
+    {
+      "type": "negative",
+      "english": "He cannot come.",
+      "asl": [
+        "He not able come.",
+        "Cannot he come?"
+      ]
+    },
+    {
+      "type": "exclamation",
+      "english": "That is amazing!",
+      "asl": [
+        "That amazing!",
+        "Amazing that!"
+      ]
+    },
+    {
+      "type": "modal",
+      "english": "You should eat now.",
+      "asl": [
+        "You should eat now.",
+        "Eat now you should."
+      ]
+    },
+    {
+      "type": "time_indicator",
+      "english": "I went to the store yesterday.",
+      "asl": [
+        "Yesterday I go store.",
+        "I go store yesterday."
+      ]
+    },
+    {
+      "type": "topicalization",
+      "english": "The weather is nice today.",
+      "asl": [
+        "Today weather nice.",
+        "Weather today nice."
+      ]
+    },
+    {
+      "type": "rhetorical_question",
+      "english": "Why did he do that?",
+      "asl": [
+        "He do that why?",
+        "Why he do that?"
+      ]
+    },
+    {
+      "type": "conditional_clause",
+      "english": "If it rains, we will stay home.",
+      "asl": [
+        "If rain, we stay home.",
+        "We stay home if rain."
+      ]
+    },
+    {
+      "type": "comparative",
+      "english": "This book is bigger than that one.",
+      "asl": [
+        "This book bigger that book.",
+        "Bigger this book than that."
+      ]
+    }
+  ]
+}
 
